@@ -4,7 +4,7 @@
 [submodule "repos/PureSpice"]
 	path = repos/PureSpice
 	url = https://github.com/mbrumlow/PureSpice
-        branch = fix-reconnect
+	branch = fix-reconnect
 [submodule "repos/cimgui"]
 	path = repos/cimgui
 	url = https://github.com/cimgui/cimgui.git
